@@ -47,6 +47,11 @@ This repository includes my completed solutions of the JavaScript30 course. Each
 ### Day 13: Slide in on Scroll
 - Description: Implementing elements that slide in as the user scrolls down the page.
 
+### Day 14: JavaScript References vs Copying
+- Description: Understanding the differences between referencing and copying objects and arrays in JavaScript.
+
+### Day 15: LocalStorage and Event Delegation
+- Description: Working with LocalStorage to persist data and utilizing event delegation in JavaScript.
 
 ## Getting Started
 
