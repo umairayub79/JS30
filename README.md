@@ -53,6 +53,51 @@ This repository includes my completed solutions of the JavaScript30 course. Each
 ### Day 15: LocalStorage and Event Delegation
 - Description: Working with LocalStorage to persist data and utilizing event delegation in JavaScript.
 
+### Day 16: CSS Text Shadow Mouse Move Effect
+- Description: Creating a text shadow effect that moves based on mouse movement.
+
+### Day 17: Sorting Band Names without Articles
+- Description: Sorting a list of band names while ignoring leading articles like "The," "An," or "A."
+
+### Day 18: Tally String Times with Reduce
+- Description: Calculating the total time of a list of videos using the reduce() method.
+
+### Day 19: Unreal Webcam Fun
+- Description: Accessing the user's webcam and applying fun effects using JavaScript.
+
+### Day 20: Native Speech Recognition
+- Description: Implementing speech recognition in the browser using the SpeechRecognition API.
+
+### Day 21: Geolocation-Based Speedometer and Compass
+- Description: Creating a speedometer and compass that use geolocation data.
+
+### Day 22: Follow Along Link Highlighter
+- Description: Implementing a highlight effect on links as the mouse moves over them.
+
+### Day 23: Speech Synthesis
+- Description: Generating speech from text using the SpeechSynthesis API.
+
+### Day 24: Sticky Nav
+- Description: Making a navigation bar stick to the top of the page as the user scrolls.
+
+### Day 25: Event Capture, Propagation, Bubbling, and Once
+- Description: Exploring event propagation, capturing, bubbling, and the once flag.
+
+### Day 26: Stripe Follow Along Dropdown
+- Description: Creating a dropdown menu with a follow-along effect.
+
+### Day 27: Click and Drag to Scroll
+- Description: Implementing click-and-drag functionality to scroll horizontally.
+
+### Day 28: Video Speed Controller
+- Description: Building a controller to adjust the playback speed of HTML5 videos.
+
+### Day 29: Countdown Timer
+- Description: Creating a countdown timer with customizable end times.
+
+### Day 30: Whack-A-Mole Game
+- Description: Building a Whack-A-Mole game using HTML, CSS, and JavaScript.
+
 ## Getting Started
 
 1. Clone this repository: `git clone https://github.com/your-username/javascript30`
