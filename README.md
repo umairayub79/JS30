@@ -63,13 +63,13 @@ This repository includes my completed solutions of the JavaScript30 course. Each
 - Description: Calculating the total time of a list of videos using the reduce() method.
 
 ### Day 19: Unreal Webcam Fun
-- Description: Accessing the user's webcam and applying fun effects using JavaScript.
+- Description: Accessing the user's webcam and applying fun effects using JavaScript. SKIPPED 🙂
 
 ### Day 20: Native Speech Recognition
 - Description: Implementing speech recognition in the browser using the SpeechRecognition API.
 
 ### Day 21: Geolocation-Based Speedometer and Compass
-- Description: Creating a speedometer and compass that use geolocation data.
+- Description: Creating a speedometer and compass that use geolocation data. SKIPPED 🙂
 
 ### Day 22: Follow Along Link Highlighter
 - Description: Implementing a highlight effect on links as the mouse moves over them.
